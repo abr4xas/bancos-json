@@ -6,7 +6,7 @@ Creemos que las bases de datos No-SQL son geniales, por ello queremos ofrecele a
 
 Inspirado en el excelente trabajo de:
 
-* [**xombra**](https://gist.github.com/xombra/11335801) 
+* [**xombra**](https://github.com/xombra) 
   * *Por crear este gist sobre: "Código y Bancos correspondientes de Venezuela"*
 * [**marydn**] (https://github.com/marydn) en [venezuela-sql] 
 * [**zokeber**] (https://github.com/zokeber) en [venezuela-json] 
@@ -30,6 +30,7 @@ mongoimport --jsonArray --db tu_base_de_datos --collection tu_coleccion --type j
 * [MongoDB] (http://www.mongodb.com/mongodb-overview)
 * [Venezuela-SQL] (https://github.com/marydn/venezuela-sql)
 * [Venezuela-JSON] (https://github.com/zokeber/venezuela-json)
+* [Código y Bancos correspondientes de Venezuela](https://gist.github.com/xombra/11335801)
 
 ## Licencia
 
