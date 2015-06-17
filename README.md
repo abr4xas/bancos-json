@@ -1,13 +1,3 @@
-Title: Bancos-json
-Date: 2015-06-16 09:26
-Category: web
-Tags: json, mongodb
-Slug: bancos-json
-Author: abr4xas
-twitter: abr4xas
-Summary: Creemos que las bases de datos No-SQL son geniales, por ello queremos ofrecele a los desarrolladores Venezolanos un recurso útil para sus proyectos. Básicamente, BANCOS-JSON es un documento en formato JSON que agrupa gran parte de los bancos dentro del territorio nacional.
-image: http://i.imgur.com/88FpuUJ.png
-
 ![] (http://i.imgur.com/88FpuUJ.png)
 # bancos-json
 Código y Bancos correspondientes de Venezuela
