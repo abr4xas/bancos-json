@@ -1,3 +1,13 @@
+Title: Bancos-json
+Date: 2015-06-16 09:26
+Category: web
+Tags: json, mongodb
+Slug: bancos-json
+Author: abr4xas
+twitter: abr4xas
+Summary: Creemos que las bases de datos No-SQL son geniales, por ello queremos ofrecele a los desarrolladores Venezolanos un recurso útil para sus proyectos. Básicamente, BANCOS-JSON es un documento en formato JSON que agrupa gran parte de los bancos dentro del territorio nacional.
+image: http://i.imgur.com/88FpuUJ.png
+
 ![] (http://i.imgur.com/88FpuUJ.png)
 # bancos-json
 Código y Bancos correspondientes de Venezuela
@@ -23,7 +33,7 @@ Para importar ```bancos.json``` a MongoDB sólo debes escribir en tu consola:
 mongoimport --jsonArray --db tu_base_de_datos --collection tu_coleccion --type json --file "/ruta/a/bancos.json"
 ```
 
-# Referencias
+## Referencias
 
 * [JSON](https://es.wikipedia.org/wiki/JSON)
 * [MongoDB](http://www.mongodb.com/mongodb-overview)
