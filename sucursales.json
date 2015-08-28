@@ -1,0 +1,40 @@
+[
+    {
+        "banco":"BANCO PROVINCIAL BBVA",
+        "codigo_banco": 0108,
+        "codigo_agencia": 0058,
+        "estado": "Carabobo",
+        "municipio": "Valencia",
+        "nombre_agencia": "Oficina Valencia Centro",
+        "horario": "8:30 am - 3:30 pm Lunes a Viernes",
+        "direccion": "Av. Bolívar N 115-29",
+        "telefono": {
+            "principal": 2418577460,
+            "secundario": 2418575966,
+            "fax": 2418596506
+        },
+        "servicios": {
+            "cajeros": true,
+            "autoservicio": true
+        }
+    },
+    {
+        "banco":"BANCO PROVINCIAL BBVA",
+        "codigo_banco": 0108,
+        "codigo_agencia": 0071,
+        "estado": "Carabobo",
+        "municipio": "Valencia",
+        "nombre_agencia": "Oficina Valencia Centro Zona Industrial",
+        "horario": "8:30 am - 3:30 pm Lunes a Viernes",
+        "direccion": "Av. Michelena y 9na transversal N 79-70 Urb. Industrial Carabobo, Torre Provincial",
+        "telefono": {
+            "principal": 2418749208,
+            "secundario": 2418749301,
+            "fax": 2418749262
+        },
+        "servicios": {
+            "cajeros": true,
+            "autoservicio": false
+        }
+    }
+]

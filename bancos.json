@@ -1,172 +1,134 @@
 [
     {
-        "Banco":"100%BANCO",
-        "Código":"0156"
+        "banco":"100% BANCO",
+        "codigo":0156
     },
     {
-        "Banco":"ABN AMRO BANK",
-        "Código":"0196"
+        "banco":"ABN AMRO BANK",
+        "codigo":0196
     },
     {
-        "Banco":"BANCAMIGA BANCO MICROFINANCIERO, C.A.",
-        "Código":"0172"
+        "banco":"BANCAMIGA BANCO MICROFINANCIERO, C.A.",
+        "codigo":0172
     },
     {
-        "Banco":"BANCO ACTIVO BANCO COMERCIAL, C.A.",
-        "Código":"0171"
+        "banco":"BANCO ACTIVO BANCO COMERCIAL, C.A.",
+        "codigo":0171
     },
     {
-        "Banco":"BANCO AGRICOLA",
-        "Código":"0166"
+        "banco":"BANCO AGRICOLA",
+        "codigo":0166
     },
     {
-        "Banco":"BANCO BICENTENARIO",
-        "Código":"0175"
+        "banco":"BANCO BICENTENARIO",
+        "codigo":0175
     },
     {
-        "Banco":"BANCO CARONI, C.A. BANCO UNIVERSAL",
-        "Código":"0128"
+        "banco":"BANCO CARONI, C.A. BANCO UNIVERSAL",
+        "codigo":0128
     },
     {
-        "Banco":"BANCO DE DESARROLLO DEL MICROEMPRESARIO",
-        "Código":"0164"
+        "banco":"BANCO DE DESARROLLO DEL MICROEMPRESARIO",
+        "codigo":0164
     },
     {
-        "Banco":"BANCO DE VENEZUELA S.A.I.C.A.",
-        "Código":"0102"
+        "banco":"BANCO DE VENEZUELA S.A.I.C.A.",
+        "codigo":0102
     },
     {
-        "Banco":"BANCO DEL CARIBE C.A.",
-        "Código":"0114"
+        "banco":"BANCO DEL CARIBE, C.A.",
+        "codigo":0114
     },
     {
-        "Banco":"BANCO DEL PUEBLO SOBERANO C.A.",
-        "Código":"0149"
+        "banco":"BANCO DEL PUEBLO SOBERANO, C.A.",
+        "codigo":0149
     },
     {
-        "Banco":"BANCO DEL TESORO",
-        "Código":"0163"
+        "banco":"BANCO DEL TESORO",
+        "codigo":0163
     },
     {
-        "Banco":"BANCO ESPIRITO SANTO, S.A.",
-        "Código":"0176"
+        "banco":"BANCO ESPIRITO SANTO, S.A.",
+        "codigo":0176
     },
     {
-        "Banco":"BANCO EXTERIOR C.A.",
-        "Código":"0115"
+        "banco":"BANCO EXTERIOR, C.A.",
+        "codigo":0115
     },
     {
-        "Banco":"BANCO INDUSTRIAL DE VENEZUELA.",
-        "Código":"0003"
+        "banco":"BANCO INDUSTRIAL DE VENEZUELA.",
+        "codigo":0003
     },
     {
-        "Banco":"BANCO INTERNACIONAL DE DESARROLLO, C.A.",
-        "Código":"0173"
+        "banco":"BANCO INTERNACIONAL DE DESARROLLO, C.A.",
+        "codigo":0173
     },
     {
-        "Banco":"BANCO MERCANTIL C.A.",
-        "Código":"0105"
+        "banco":"BANCO MERCANTIL, C.A.",
+        "codigo":0105
     },
     {
-        "Banco":"BANCO NACIONAL DE CREDITO",
-        "Código":"0191"
+        "banco":"BANCO NACIONAL DE CREDITO",
+        "codigo":0191
     },
     {
-        "Banco":"BANCO OCCIDENTAL DE DESCUENTO.",
-        "Código":"0116"
+        "banco":"BANCO OCCIDENTAL DE DESCUENTO.",
+        "codigo":0116
     },
     {
-        "Banco":"BANCO PLAZA",
-        "Código":"0138"
+        "banco":"BANCO PLAZA",
+        "codigo":0138
     },
     {
-        "Banco":"BANCO PROVINCIAL BBVA",
-        "Código":"0108",
-        "Estados":{
-            "carabobo": [
-                { "codigoagencia": 0058,
-                 "direccion": "av. bolivar n 115-29",
-                 "municipio": "valencia",
-                 "nombre": "Oficina Valencia Centro",
-                 "horario": "8:30 am - 3:30 pm Lunes a Viernes",
-                 "servicios": {
-                     "cajeros": true,
-                     "zona-express": true,
-                     "gestion-divisas": true,
-                     "kiosko-autoservicio": true
-                 },
-                 "telefono": {
-                     "telefono-p": 2418577460,
-                     "telefono-s": 2418575966,
-                     "fax": 2418596506
-                 },
-                },
-                { "codigoagencia": 0071,
-                 "direccion": "av. michelena y 9na transversal n 79-70 urb. industrial carabobo, torre provincial",
-                 "municipio": "valencia",
-                 "nombre": "Oficina Valencia Centro Zona Industrial",
-                 "horario": "8:30 am - 3:30 pm Lunes a Viernes",
-                 "servicios": {
-                     "cajeros": true,
-                     "zona-express": true,
-                     "gestion-divisas": true,
-                     "kiosko-autoservicio": false
-                 },
-                 "telefono": {
-                     "telefono-p": 2418749208,
-                     "telefono-s": 2418749301,
-                     "fax": 2418749262
-                 },
-                },
-            ]
-        }
+        "banco":"BANCO PROVINCIAL BBVA",
+        "codigo":0108
     },
     {
-        "Banco":"BANCO VENEZOLANO DE CREDITO S.A.",
-        "Código":"0104"
+        "banco":"BANCO VENEZOLANO DE CREDITO, S.A.",
+        "codigo":0104
     },
     {
-        "Banco":"BANCRECER S.A. BANCO DE DESARROLLO",
-        "Código":"0168"
+        "banco":"BANCRECER S.A. BANCO DE DESARROLLO",
+        "codigo":0168
     },
     {
-        "Banco":"BANFANB",
-        "Código":"0177"
+        "banco":"BANFANB",
+        "codigo":0177
     },
     {
-        "Banco":"BANGENTE",
-        "Código":"0146"
+        "banco":"BANGENTE",
+        "codigo":0146
     },
     {
-        "Banco":"BANPLUS BANCO COMERCIAL C.A",
-        "Código":"0174"
+        "banco":"BANPLUS BANCO COMERCIAL, C.A",
+        "codigo":0174
     },
     {
-        "Banco":"CITIBANK",
-        "Código":"0190"
+        "banco":"CITIBANK",
+        "codigo":0190
     },
     {
-        "Banco":"CORP BANCA.",
-        "Código":"0121"
+        "banco":"CORP BANCA.",
+        "codigo":0121
     },
     {
-        "Banco":"DELSUR BANCO UNIVERSAL",
-        "Código":"0157"
+        "banco":"DELSUR BANCO UNIVERSAL",
+        "codigo":0157
     },
     {
-        "Banco":"FONDO COMUN",
-        "Código":"0151"
+        "banco":"FONDO COMÚN",
+        "codigo":0151
     },
     {
-        "Banco":"INSTITUTO MUNICIPAL DE CRÉDITO POPULAR",
-        "Código":"0601"
+        "banco":"INSTITUTO MUNICIPAL DE CRÉDITO POPULAR",
+        "codigo":0601
     },
     {
-        "Banco":"MIBANCO BANCO DE DESARROLLO, C.A.",
-        "Código":"0169"
+        "banco":"MIBANCO BANCO DE DESARROLLO, C.A.",
+        "codigo":0169
     },
     {
-        "Banco":"SOFITASA",
-        "Código":"0137"
+        "banco":"SOFITASA",
+        "codigo":0137
     }
 ]
